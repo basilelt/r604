@@ -1,0 +1,3 @@
+[submodule "terraform-alb"]
+	path = terraform-alb
+	url = git@github.com:basilelt/terraform-alb.git
